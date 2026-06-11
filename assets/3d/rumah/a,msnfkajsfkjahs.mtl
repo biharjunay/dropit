@@ -1,0 +1,264 @@
+newmtl Part1Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00102419 0.00102419 0.00102419 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
+newmtl Part4Mtl
+Material Color
+Ka 0.0399472 0.0253713 0.0179364
+Kd 0.0399472 0.0253713 0.0179364
+Ks 0.00219318 0.00139293 0.000984745 
+
+d 1
+
+Ns 0
+
+map_Ka Part4_diff.png
+map_Kd Part4_diff.png
+map_d Part4_diff.png
+
+map_Bump Part4_nmap.png
+
+map_Ns Part4_spec.png
+
+newmtl Part23Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0494072 0.0451216 0.0483159 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
+newmtl Part6Mtl
+Material Color
+Ka 0.891262 0.899384 0.899384
+Kd 0.891262 0.899384 0.899384
+Ks 0.0559223 0.056432 0.056432 
+
+d 1
+
+Ns 0
+
+map_Ka Part6_diff.png
+map_Kd Part6_diff.png
+map_d Part6_diff.png
+
+map_Bump Part6_nmap.png
+
+map_Ns Part6_spec.png
+
+newmtl Part47Mtl
+Material Color
+Ka 0.891262 0.899384 0.899384
+Kd 0.891262 0.899384 0.899384
+Ks 0.35301 0.356227 0.356227 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
+newmtl Part9Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.00538098 0.00491424 0.00526213 
+
+d 1
+
+Ns 0
+
+map_Ka Part8_diff.png
+map_Kd Part8_diff.png
+map_d Part8_diff.png
+
+map_Bump Part8_nmap.png
+
+map_Ns Part8_spec.png
+
+newmtl Part8Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.000111545 0.000111545 0.000111545 
+
+d 1
+
+Ns 0
+
+map_Ka Part8_diff.png
+map_Kd Part8_diff.png
+map_d Part8_diff.png
+
+map_Bump Part8_nmap.png
+
+map_Ns Part8_spec.png
+
+newmtl Part12Mtl
+Material Color
+Ka 0.891262 0.899384 0.899384
+Kd 0.891262 0.899384 0.899384
+Ks 0.0384466 0.038797 0.038797 
+
+d 1
+
+Ns 0
+
+map_Ka Part8_diff.png
+map_Kd Part8_diff.png
+map_d Part8_diff.png
+
+map_Bump Part8_nmap.png
+
+map_Ns Part8_spec.png
+
+newmtl Part52Mtl
+Material Color
+Ka 0.891262 0.899384 0.899384
+Kd 0.891262 0.899384 0.899384
+Ks 0.0664078 0.067013 0.067013 
+
+d 1
+
+Ns 0
+
+map_Ka Part52_diff.png
+map_Kd Part52_diff.png
+map_d Part52_diff.png
+
+map_Bump Part52_nmap.png
+
+map_Ns Part52_spec.png
+
+newmtl Part373Mtl
+Material Color
+Ka 0.190463 0.284452 0.227137
+Kd 0.190463 0.284452 0.227137
+Ks 0.00522839 0.00780849 0.00623512 
+
+d 1
+
+Ns 0
+
+map_Ka Part373_diff.png
+map_Kd Part373_diff.png
+map_d Part373_diff.png
+
+map_Bump Part373_nmap.png
+
+map_Ns Part373_spec.png
+
+newmtl Part458Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.0831606 0.0759473 0.0813238 
+
+d 1
+
+Ns 255
+
+map_Ka Part458_diff.png
+map_Kd Part458_diff.png
+map_d Part458_diff.png
+
+map_Bump Part458_nmap.png
+
+map_Ns Part458_spec.png
+
+newmtl Part514Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.249077 0.245727 0.25585 
+
+d 1
+
+Ns 255
+
+map_Ka Part458_diff.png
+map_Kd Part458_diff.png
+map_d Part458_diff.png
+
+map_Bump Part458_nmap.png
+
+map_Ns Part458_spec.png
+
+newmtl Part552Mtl
+Material Color
+Ka 0.891262 0.899384 0.899384
+Kd 0.891262 0.899384 0.899384
+Ks 0.048932 0.049378 0.049378 
+
+d 1
+
+Ns 0
+
+map_Ka Part4_diff.png
+map_Kd Part4_diff.png
+map_d Part4_diff.png
+
+map_Bump Part4_nmap.png
+
+map_Ns Part4_spec.png
+
+newmtl Part602Mtl
+Material Color
+Ka 0.0199178 0.0199178 0.0199178
+Kd 0.0199178 0.0199178 0.0199178
+Ks 0.0132786 0.0132786 0.0132786 
+
+d 1
+
+Ns 255
+
+map_Ka Part458_diff.png
+map_Kd Part458_diff.png
+map_d Part458_diff.png
+
+map_Bump Part458_nmap.png
+
+map_Ns Part458_spec.png
+
+newmtl Part615Mtl
+Material Color
+Ka 0.0915184 0.0511221 0.0328759
+Kd 0.0915184 0.0511221 0.0328759
+Ks 0.00610122 0.00340814 0.00219173 
+
+d 1
+
+Ns 0
+
+map_Ka Part615_diff.png
+map_Kd Part615_diff.png
+map_d Part615_diff.png
+
+map_Bump Part615_nmap.png
+
+map_Ns Part615_spec.png
+

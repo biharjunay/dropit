@@ -1,0 +1,84 @@
+newmtl Part1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0161167 0.0159 0.016555 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
+map_Ns Part1_spec.png
+
+newmtl Meshpart1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart1_diff.png
+map_Kd Meshpart1_diff.png
+map_d Meshpart1_diff.png
+
+newmtl Part3Mtl
+Material Color
+Ka 0.124741 0.113921 0.121986
+Kd 0.124741 0.113921 0.121986
+Ks 0.00782688 0.00714798 0.00765401 
+
+d 1
+
+Ns 0
+
+map_Ka Part3_diff.png
+map_Kd Part3_diff.png
+map_d Part3_diff.png
+
+map_Bump Part3_nmap.png
+
+newmtl Part10Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 7.09834e-05 7.09834e-05 7.09834e-05 
+
+d 1
+
+Ns 0
+
+map_Ka Part10_diff.png
+map_Kd Part10_diff.png
+map_d Part10_diff.png
+
+map_Bump Part10_nmap.png
+
+map_Ns Part10_spec.png
+
+newmtl Grass1Mtl
+Material Color
+Ka 0.378676 0.517401 0.0600316
+Kd 0.378676 0.517401 0.0600316
+Ks 0.010395 0.0142032 0.00164793 
+
+d 0.552941
+
+Ns 0
+
+map_Ka Grass1_diff.png
+map_Kd Grass1_diff.png
+map_d Grass1_diff.png
+
+map_Bump Grass1_nmap.png
+
+map_Ns Grass1_spec.png
+

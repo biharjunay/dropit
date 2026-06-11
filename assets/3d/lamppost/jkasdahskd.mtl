@@ -1,0 +1,54 @@
+newmtl Bulb1Mtl
+Material Color
+Ka 1 1 0.612066
+Kd 1 1 0.612066
+Ks 0.0901961 0.0901961 0.0552059 
+
+d 1
+
+Ns 0
+
+newmtl Glass1Mtl
+Material Color
+Ka 0.982826 0.827726 0.271577
+Kd 0.982826 0.827726 0.271577
+Ks 0.0886471 0.0746576 0.0244952 
+
+d 0.803922
+
+Ns 0
+
+newmtl Main1Mtl
+Material Color
+Ka 0.0169881 0.022013 0.022013
+Kd 0.0169881 0.022013 0.022013
+Ks 0.0113254 0.0146753 0.0146753 
+
+d 1
+
+Ns 255
+
+map_Ka Main1_diff.png
+map_Kd Main1_diff.png
+map_d Main1_diff.png
+
+map_Bump Main1_nmap.png
+
+map_Ns Main1_spec.png
+
+newmtl Part1Mtl
+Material Color
+Ka 0.0169881 0.022013 0.022013
+Kd 0.0169881 0.022013 0.022013
+Ks 0.0067286 0.00871887 0.00871887 
+
+d 1
+
+Ns 0
+
+map_Ka Part1_diff.png
+map_Kd Part1_diff.png
+map_d Part1_diff.png
+
+map_Bump Part1_nmap.png
+
